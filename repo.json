@@ -3,7 +3,7 @@
         "Author": "Adam",
         "Name": "Cum",
         "Description": "Runtime mod loader and manager.",
-        "InternalName": "Penumbra",
+        "InternalName": "Cum",
         "AssemblyVersion": "0.5.11.1",
         "TestingAssemblyVersion": "0.5.11.1",
         "RepoUrl": "https://github.com/xivdev/Penumbra",
